@@ -1,7 +1,7 @@
 ## Schaltpult fuer openTX-Sender
  
  
-![image lost ?](pics/Schaltpult Final w.jpg)
+![image lost ?](pics/Schaltpult.jpg)
  
  
 Eingänge für 16 zusätzliche Schalter.  
